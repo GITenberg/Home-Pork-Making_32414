@@ -1,0 +1,36 @@
+_repo: Home-Pork-Making_32414
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fulton, A. W. (Albert Watson)
+    alias: Fulton, Albert Watson
+    birthdate: 1859
+    gutenberg_agent_id: '35836'
+    url: http://www.gutenberg.org/2009/agents/35836
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2010-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32414'
+  lccn: '99005640'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking (Pork)'
+- !lcc 'TS'
+- !lcsh 'Pork'
+tableOfContents: Introduction -- Pork making on the farm -- Finishing off hogs for
+  bacon -- Slaughtering -- Scalding and scraping -- Dressing and cutting -- What to
+  do with the offal -- The fine points in making lard -- Pickling and barreling --
+  Care of hams and shoulders -- Dry salting bacon and sides -- Smoking and smokehouses
+  -- Keeping hams and bacon -- Side lights on pork making -- Packing house cuts of
+  pork -- Magnitude of the swine industry -- Discovering the merits of roast pig --
+  Recipes for cooking and serving pork.
+title: Home Pork Making
+url: http://www.gutenberg.org/ebooks/32414
